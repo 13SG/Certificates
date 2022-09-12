@@ -1,2 +1,2 @@
 # Certificates
-uploaded certifications.
+uploaded certificates.
