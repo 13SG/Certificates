@@ -1,7 +1,7 @@
 # Certificates 
 
 
-uploaded certificates.
+uploaded certificates
 
 
 
